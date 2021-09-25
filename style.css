@@ -1,0 +1,25 @@
+.canvas{
+    width: 600px;
+    height: 500px;
+    margin: 50px auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.bulb-off{
+    width: 550px;
+    height: 550px;
+    background: url('bulb-off.png') ;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+}
+
+.bulb-on{
+    width: 550px;
+    height: 550px;
+    background: url('bulb-on.png') ;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+} 
